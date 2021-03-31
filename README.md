@@ -38,6 +38,6 @@ _{Let people know what to do if they run into any issues or have questions, idea
 
 ## Contact Information
 
-_<a href=mailto:suthastevens@gmail.com">_
+_suthastevens@gmail.com_
 # MP
 This is my experimental first webpage using HTML and CSS, I learned with Epicodus. <em>I am still learning, stumbling and having fun!</em>! 
