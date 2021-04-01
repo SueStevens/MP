@@ -32,7 +32,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## License
 
-_{unlicense}_
+_unlicense_
 
 _{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
